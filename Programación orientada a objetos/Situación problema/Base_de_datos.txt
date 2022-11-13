@@ -1,0 +1,30 @@
+p,Sombras tenebrosas,Comedia,PG-13,5,200,113,0
+p,El proyecto Adam,Ciencia ficcion,PG-13,4,150,106,1
+p,No mires arriba,Temas sociales,R,3.2,300,138,3
+p,Crush,Romance,PG-13,1.7,170,102,2
+p,Si supieras,Romance,PG-13,2.25,100,105,1
+s,Atypical,Drama,TV-14,4.7,300,4,38
+3
+1,Antartida,38
+1,Una hembra humana,33
+1,Julia dijo,31
+s,Stranger things,Ciencia ficcion,TV-14,3.6,400,4,32
+3
+1,Capitulo uno: La aparicion de Will Byers,49
+1,Capitulo dos: La loca de la calle Maple,56
+1,Capitulo tres: Todo está bien,52
+s,Curon,Suspenso,TV-MA,2.2,80,1,7
+3
+1,El lago oscuro,50
+1,El dia despues,45
+1,El asesino,51
+s,Lucifer,Crimen,TV-14,3.12,180,6,93
+3
+1,Piloto,44
+1,Quieto Lucifer. Buen diablo, 43
+1,El presunto Principe de las Tinieblas,43
+s,One day at a time,Comedia,TV-PG,4.54,120,4,43
+3
+1,No hay mas,31
+1,Bobos y mamitas,30
+1,Misa,32
