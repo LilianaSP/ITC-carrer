@@ -1,0 +1,23 @@
+# Descargar e instalar anaconda de https://www.anaconda.com/
+
+# Abrir Anaconda prompt y ejecutar los siguientes comandos.
+
+# Crear un nuevo entorno.
+conda create -n prueba pandas
+
+# Activar entorno.
+activate prueba
+
+# Listar librerías.
+conda list
+
+# Instalar jupyter notebooks.
+conda install -c anaconda jupyter
+
+# Cambiarse al directorio de trabajo.
+cd ruta_al_directorio_deseado
+
+# Abrir jupyter notebooks.
+jupyter notebook
+
+# Se abrirá una ventana de navegador donde podremos seleccionar el notebook deseado.
